@@ -4,7 +4,8 @@
 
 Observações de avaliações nesta disciplina:
 * É necessário ter pelo menos $50\%$ de nota nesta prova
-* Quem não tiver nota mínima nesta prova pode fazer a *delta* versando sobre o mesmo conteúdo na semana das avaliações finais. A *delta* limita a nota aos $50\%$ mínimos necessários
+* Quem não tiver nota mínima nesta prova pode fazer a P2 versando sobre o mesmo conteúdo na semana das avaliações finais. Valerá a maior nota dentre as provas
+
 
 Orientações gerais:
 * Você pode consultar a *Internet* livremente, mas não pode se comunicar com outras pessoas da turma ou de fora dela sobre o conteúdo da prova. Tentativas de comunicação serão severamente punidas.
@@ -109,6 +110,10 @@ O que você deve fazer:
 * Represente o robô na coordenada 256,256 da imagem usando um círculo
 * Adotando a escala $1 pixel = 2 cm$ desenhe todas as leituras válidas do lidar na imagem
 * Traça as retas encontradas usando a transformada de Hough Lines
+
+O resultado deve ficar parecido com o da figura abaixo. Note que na janela observa-se os mesmos objetos que o robô está vendo.
+
+![](Q4.png)
 
 
 |Resultado| Conceito| 
