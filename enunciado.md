@@ -73,7 +73,7 @@ A linha azul determina a partir de qual cor você pode considerar uma toranja ma
 
 Considere que a componente `H` (Hue) das imagens vai definir o critério se uma fruta é madura ou não.
 
-![](p1_webcam/prova_laranjas.png)
+![](p1_opencv/prova_laranjas.png)
 
 
 
@@ -101,7 +101,7 @@ Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
 # Questão 3 - ROS + cv
 
-**Atenćão: você vai usar OpenCV mas não vai trabalhar com imagens de câmera**
+**Atenção: você vai usar OpenCV mas não vai trabalhar com imagens de câmera**
 
 Você deve trabalhar no arquivo `le_scan_grafico.py`
 
