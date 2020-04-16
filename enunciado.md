@@ -31,7 +31,7 @@ Você vai ver uma cena como a abaixo. O robô começa numa sala com lata de lixo
 
 
 
-[./media/cena.png]
+![](./cena.png)
 
 
 O que você deve fazer: Modificar os programas para que o robô sempre centralize e avance na direção de qualquer objeto destas 3 categorias: chair pottedplant bottle
@@ -39,7 +39,7 @@ O que você deve fazer: Modificar os programas para que o robô sempre centraliz
 O robô deve inicialmente começar girando lentamente.
 
 
-Trabalhe em cioma do p1_mobilenet.py principalmente, mas pode editar outros, se necessário.
+Trabalhe em cima do p1_mobilenet.py principalmente, mas pode editar outros, se necessário.
 
 
         rosrun p1_sim p1_mobilenet.py 
@@ -57,7 +57,7 @@ A centralização não precisa ser perfeita, adote uma margem de tolerância
 
 Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
-
+**Gabarito** na p1_mobilenet.py
 
 
 
@@ -84,7 +84,7 @@ Pede-se: Faça um código que conte e identifique na  imagem quantas toranjas ma
 Dicas:
 * Lembre-se da aula 2
 * Só precisa funcionar **para esta vídeo em particular**, não para quaisquer toranjas
-* Não é uma questão de ROS. Trabalhe na pasta `p1_webcam`
+* Não é uma questão de ROS. Trabalhe na pasta `p1_opencv`
 * Você pode usar Python 2 ou Python 3 conforme preferir
 
 
@@ -97,6 +97,8 @@ Dicas:
 
 Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
+
+**Gabarito** na pasta p1_opencv
 
 
 # Questão 3 - ROS + cv
@@ -123,7 +125,7 @@ O resultado deve ficar parecido com o da figura abaixo. Note que na janela obser
 |  Traça a reta | 2.5 | 
 
 
-
+**Gabarito** no arquivo `le_scan_grafico_gabarito.py`
 
 
 
